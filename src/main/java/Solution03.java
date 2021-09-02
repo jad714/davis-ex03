@@ -1,9 +1,9 @@
-import java.util.Scanner;
-
 /*
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 Joshua Davis
  */
+
+import java.util.Scanner;
 
 public class Solution03 {
     /* Begin pseudocode */
